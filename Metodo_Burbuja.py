@@ -10,7 +10,7 @@ def Main():
     for i in lista:
         print(i)
         
-    #print("METODO DE ORDENAMIENTO BURBUJA")
+    print("METODO DE ORDENAMIENTO BURBUJA")
 
 if __name__ =='__main__':
     Main()
