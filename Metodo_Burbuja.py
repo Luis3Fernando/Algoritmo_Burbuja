@@ -13,7 +13,8 @@ def Main():
     print("METODO DE ORDENAMIENTO BURBUJA")
     for i in range(n):
         for j in range(n):
-            
+            if lista[i]>lista[j]:
+                
 
 if __name__ =='__main__':
     Main()
