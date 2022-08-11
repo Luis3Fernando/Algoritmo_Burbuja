@@ -18,6 +18,8 @@ def Main():
                 lista[i] = lista[j]
                 lista[j] = aux
                 
+    print("IMPRIMIRE EL NUMERO")
+                
 
 if __name__ =='__main__':
     Main()
